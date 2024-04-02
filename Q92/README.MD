@@ -1,3 +1,3 @@
-Question 93: Find the index of "Banana" in an array of fruits and replace it with "Mango".
+Question 92: Write a function to remove the last element from an array and return the removed element.
 
-Explain & TIP: To replace an item in an array, find its index using .indexOf(), then use that index to set a new value with array bracket notation.
+Explain & TIP: The .pop() method removes the last element from an array and returns that element. This can be useful when you need to work with the removed item.

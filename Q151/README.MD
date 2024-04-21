@@ -1,4 +1,7 @@
-Day 51 Update: hashtag#100DaysOfCodingChallenge
+Today Task
+Read the following article: Top 10 Programming Tips For Beginners
+
+Day 51 Update: #100DaysOfCodingChallenge
 
 After diligently following the day 51 task of the 100 Days of Coding Challenge, I've thoroughly read the insightful article provided by Sir Asharib Ali. Here's a summarized version of the "Top 10 Programming Tips For Beginners" shared in the article:
 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+
+function checkAge(age) {
+  if (age >= 18) {
+    return true;
+  } else {
+    return confirm('Do you have permission from your parents?');
+  }
+}
+
+let age = prompt('How old are you?', 18);
+
+if ( checkAge(age) ) {
+  alert( 'Access granted' );
+} else {
+  alert( 'Access denied' );
+}
+
+function doNothing() { /* empty */ }
+
+alert( doNothing() === undefined ); // true
+
+function doNothing() {
+  return;
+}
+
+alert( doNothing() === undefined ); // true
+
+</script>
+<body>
+    <h1>======Hello Coders=====</h1>
+    <h2>++++Functions++++</h2>
+    <h3>***Welcome To Shahi House***</h3>
+</body>
+</html>
